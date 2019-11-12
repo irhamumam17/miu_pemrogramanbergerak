@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Wisata Rembang</string>
+    <string-array name="fpklub">
+        <item>Karang Jahe Beach</item>
+        <item>Pantai Caruban</item>
+        <item>Jembatan Merah Hutan Mangrove</item>
+        <item>Gunung Lasem</item>
+        <item>Air Terjun Pasucen</item>
+        <item>Museum RA Kartini</item>
+        <item>Petilasan Sunan Bonang</item>
+        <item>Pulau Gede Rembang</item>
+        <item>Pulau Karang Gosong</item>
+        <item>Kelenteng Cu An Kiong</item>
+    </string-array>
+    <string-array name="fpphoto">
+        <item>neuer</item>
+        <item>carvajal</item>
+        <item>thiago_silva</item>
+        <item>sergio_ramos</item>
+        <item>jorginho</item>
+        <item>evan_dimas</item>
+        <item>c_ronaldo</item>
+        <item>toni_kroos</item>
+        <item>benzema</item>
+        <item>messi</item>
+        <item>m_salah</item>
+        <item>marcelo</item>
+        <item>febri</item>
+        <item>casemiro</item>
+        <item>firman_utina</item>
+    </string-array>
+</resources>
