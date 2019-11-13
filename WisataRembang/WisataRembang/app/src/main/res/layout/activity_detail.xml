@@ -30,7 +30,7 @@
                 android:layout_height="match_parent"
                 android:gravity="center"
                 android:text="Wisata Detail"
-                android:textSize="20sp"
+                android:textSize="18sp"
                 android:id="@+id/txtJudul"
                 android:textColor="#FFFFFF"
                 android:textStyle="bold" />
