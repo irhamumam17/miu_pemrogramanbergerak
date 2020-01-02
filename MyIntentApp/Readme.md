@@ -1,0 +1,8 @@
+![Screenshot_2019-11-12-11-55-01-331_com miucomp myintentapp](https://user-images.githubusercontent.com/24388499/69528690-52b58300-0fa1-11ea-970d-ac07e9d6daf0.png)
+![Screenshot_2019-11-12-11-54-19-156_com miucomp myintentapp](https://user-images.githubusercontent.com/24388499/69528691-534e1980-0fa1-11ea-8685-5946827acc49.png)
+![Screenshot_2019-11-12-11-54-22-003_com miucomp myintentapp](https://user-images.githubusercontent.com/24388499/69528693-534e1980-0fa1-11ea-8a70-7afff4e047fe.png)
+![Screenshot_2019-11-12-11-54-25-083_com miucomp myintentapp](https://user-images.githubusercontent.com/24388499/69528694-534e1980-0fa1-11ea-905e-4d7d784019db.png)
+![Screenshot_2019-11-12-11-54-30-870_com android contacts](https://user-images.githubusercontent.com/24388499/69528695-53e6b000-0fa1-11ea-8a39-d2a4dc809079.png)
+![Screenshot_2019-11-12-11-54-38-282_com android browser](https://user-images.githubusercontent.com/24388499/69528696-53e6b000-0fa1-11ea-9380-d76017013b29.png)
+![Screenshot_2019-11-12-11-54-49-023_com miucomp myintentapp](https://user-images.githubusercontent.com/24388499/69528697-547f4680-0fa1-11ea-8c69-99da9b025445.png)
+![Screenshot_2019-11-12-11-54-59-383_com miucomp myintentapp](https://user-images.githubusercontent.com/24388499/69528699-547f4680-0fa1-11ea-8779-211118c25b4f.png)
