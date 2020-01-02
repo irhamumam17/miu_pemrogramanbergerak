@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "325299812736",
+    "firebase_url": "https://daftar-belanja-harian-229a4.firebaseio.com",
+    "project_id": "daftar-belanja-harian-229a4",
+    "storage_bucket": "daftar-belanja-harian-229a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325299812736:android:f8080ebacd58eabd66e965",
+        "android_client_info": {
+          "package_name": "com.miucomp.daftarbelanja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325299812736-spkv9iloc7lml7si7md43afivnadftin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdDGaDTzM6zXd7yBi0lvyB88velcKDWc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325299812736-spkv9iloc7lml7si7md43afivnadftin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
