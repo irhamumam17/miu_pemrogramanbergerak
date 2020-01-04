@@ -1,4 +1,4 @@
-![Screenshot_2019-11-19-15-39-11-407_com miucomp mylocalization](https://user-images.githubusercontent.com/24388499/71686409-b4051900-2dcd-11ea-943a-73564cd93871.png)
+![Screenshot_2020-01-04-21-54-13-505_com miucomp mylocalization](https://user-images.githubusercontent.com/24388499/71767274-1b8da680-2f3d-11ea-881d-31b08abb8ebf.jpg)
 ![Screenshot_2019-11-19-15-39-21-254_com miucomp mylocalization](https://user-images.githubusercontent.com/24388499/71686410-b49daf80-2dcd-11ea-99c0-75d0a13671bc.png)
 ![Screenshot_2019-11-19-15-39-42-831_com miucomp mylocalization](https://user-images.githubusercontent.com/24388499/71686411-b49daf80-2dcd-11ea-9420-cd58490b4e5c.png)
 ![Screenshot_2019-11-19-15-40-08-237_com miucomp mylocalization](https://user-images.githubusercontent.com/24388499/71686412-b49daf80-2dcd-11ea-961b-2a1338327661.png)
