@@ -12,14 +12,14 @@
         android:orientation="vertical"
         android:layout_gravity="center"
         android:gravity="center">
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textAlignment="center"
-            android:text="@string/hello_blank_fragment"
-            android:textColor="@android:color/black"
-            android:textSize="20sp"
-            android:textStyle="bold"/>
+<!--        <TextView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:textAlignment="center"-->
+<!--            android:text="@string/hello_blank_fragment"-->
+<!--            android:textColor="@android:color/black"-->
+<!--            android:textSize="20sp"-->
+<!--            android:textStyle="bold"/>-->
         <de.hdodenhof.circleimageview.CircleImageView
             android:layout_width="150dp"
             android:layout_height="150dp"
@@ -103,7 +103,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Sepakbola"
+                    android:text="@string/myhobby"
                     android:textColor="@android:color/black"
                     android:textSize="20sp"/>
             </LinearLayout>
@@ -128,7 +128,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Awali langkahmu dengan Sholawat"
+                    android:text="@string/myquotes"
                     android:textColor="@android:color/black"
                     android:textSize="20sp"/>
             </LinearLayout>

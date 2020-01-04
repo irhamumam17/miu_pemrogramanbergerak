@@ -17,5 +17,7 @@
     <string name="address">Address</string>
     <string name="hobby">Hobby</string>
     <string name="quotes">Quote</string>
+    <string name="myhobby">Football</string>
+    <string name="myquotes">Start Your Steps With Sholawat</string>
 
 </resources>
